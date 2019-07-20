@@ -82,7 +82,7 @@ module.exports = {
    ** Route config for pre-rendering
    */
   router: {
-    scrollBehavior: function(to, from, savedPosition) {
+    scrollBehavior(to, from, savedPosition) {
       return { x: 0, y: 0 }
     },
     middleware: ['title'],
@@ -106,9 +106,6 @@ module.exports = {
    */
   build: {
     extractCSS: true,
-    /*
-     ** Run ESLint on save
-     */
   },
 }
 

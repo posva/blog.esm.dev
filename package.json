@@ -11,7 +11,6 @@
     "build:api": "netlify-lambda build src/sendgrid",
     "start": "nuxt start",
     "generate": "nuxt generate --no-lock",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint"
   },
   "dependencies": {
@@ -22,18 +21,13 @@
     "bf-solid": "^2.10.6",
     "fuse.js": "^3.2.1",
     "netlify-lambda": "^1.4.3",
-    "node-sass": "^4.9.2",
     "nuxt": "^2.0.0",
-    "sass-loader": "^7.0.3",
     "vue-lazyload": "^1.2.6",
     "vue-moment": "^4.0.0"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.6",
-    "eslint": "^4.15.0",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
-    "eslint-plugin-vue": "^4.7.0",
+    "sass-loader": "^7.0.3",
+    "node-sass": "^4.9.2",
     "glob": "^7.1.2"
   },
   "engines": {
