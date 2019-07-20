@@ -16,7 +16,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.1",
     "@nuxtjs/markdownit": "github:syffs/nuxtv2-markdownit",
-    "@nuxtjs/pwa": "^2.0.8",
+    "@nuxtjs/pwa": "^3.0.0-beta.16",
     "@sendgrid/client": "^6.3.0",
     "bf-solid": "^2.10.6",
     "fuse.js": "^3.2.1",
@@ -26,9 +26,9 @@
     "vue-moment": "^4.0.0"
   },
   "devDependencies": {
-    "sass-loader": "^7.0.3",
+    "glob": "^7.1.2",
     "node-sass": "^4.9.2",
-    "glob": "^7.1.2"
+    "sass-loader": "^7.0.3"
   },
   "engines": {
     "node": ">= 10.0.0"
