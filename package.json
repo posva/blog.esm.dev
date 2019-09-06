@@ -18,7 +18,7 @@
     "@nuxtjs/markdownit": "github:syffs/nuxtv2-markdownit",
     "@nuxtjs/pwa": "^3.0.0-beta.16",
     "@sendgrid/client": "^6.3.0",
-    "bf-solid": "^2.10.6",
+    "bf-solid": "^2.11.2",
     "fuse.js": "^3.2.1",
     "netlify-lambda": "^1.4.3",
     "nuxt": "^2.0.0",
