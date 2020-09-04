@@ -23,7 +23,7 @@
     "netlify-lambda": "^1.4.3",
     "nuxt": "^2.0.0",
     "vue-lazyload": "^1.2.6",
-    "vue-moment": "^4.0.0"
+    "vue-moment": "^4.1.0"
   },
   "devDependencies": {
     "glob": "^7.1.2",
