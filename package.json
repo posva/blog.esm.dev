@@ -16,7 +16,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.1",
     "@nuxtjs/markdownit": "github:syffs/nuxtv2-markdownit",
-    "@nuxtjs/pwa": "^3.0.0-beta.16",
+    "@nuxtjs/pwa": "^3.3.2",
     "@sendgrid/client": "^6.3.0",
     "bf-solid": "^2.10.6",
     "fuse.js": "^3.2.1",
