@@ -20,7 +20,7 @@
     "@sendgrid/client": "^6.3.0",
     "bf-solid": "^2.10.6",
     "fuse.js": "^3.2.1",
-    "netlify-lambda": "^1.4.3",
+    "netlify-lambda": "^2.0.4",
     "nuxt": "^2.0.0",
     "vue-lazyload": "^1.2.6",
     "vue-moment": "^4.0.0"
